@@ -1,0 +1,57 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3
+{
+    display: inline;
+}
+.heading button
+{
+    float: right;
+    border: 1px double white;
+}
+.big_image
+{
+    width: 100%;
+}
+#start,#status,#restart
+{
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.modal-dialog
+{
+    width: 70%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+h4
+{
+   background-color: grey;
+   color:white;
+   line-height: 2;
+}
+canvas 
+  {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px white;
+  }
+  .copyright_footer
+{
+    bottom: 0;
+    position: fixed;
+    background-color: rgb(202, 202, 202);
+    width: 100%;
+    line-height:3;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    opacity: 60%;
+}
